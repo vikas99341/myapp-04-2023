@@ -5,9 +5,9 @@ b=4289
 c=4318
 d=4499
 e=6677
-f=
-g=
+f=23
+g=34
 
-sum = a+ b + c+ d + e
+sum = a+ b + c+ d + e + f +g
 
 print ("output of two numbers is =" , sum )
